@@ -14,7 +14,7 @@
 	    <itunes:name>Microsoft Developer Relations</itunes:name>
 	    <itunes:email>devrelpodcasts@microsoft.com</itunes:email>
     </itunes:owner>
-	  <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <image>
       <url>https://f.ch9.ms/thumbnail/625c485e-abee-47a7-9326-dbd097455733.jpg</url>
       <title>Hello World (Audio) - Channel 9</title>
