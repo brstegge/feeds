@@ -5,8 +5,8 @@
     <title>Hello World</title>
     <atom:link rel="self" type="application/rss+xml" href="https://s.ch9.ms/Shows/Hello-World/feed/mp3"></atom:link>
     <itunes:summary>Hello World is a 30 minutes daily show on LearnTV. Hello World is made up of special guests, content challenges, upcoming events, and daily updates from Microsoft related news. Come for a specific segment, please stay for the energy. Hello World is meant to be fun and educational to the viewing audience who are interested in Microsoft products and Microsoft current events. Visualize this show like your national morning talk show. A regular cast of hosts, who then work on with others to build and deliver short and concise 2-5 minute segments of interest. Watch it live on LearnTV Add the Hello World show schedule to your calendar with this Invite - https://aka.ms/helloworld/reminder. </itunes:summary>
-    <googleplay:author>Microsoft</googleplay:author>
-    <itunes:author>Microsoft</itunes:author>
+    <googleplay:author>Microsoft Developer Relations</googleplay:author>
+    <itunes:author>Microsoft Developer Relations</itunes:author>
     <googleplay:email>devrelpodcasts@microsoft.com</googleplay:email>
     <itunes:email>devrelpodcasts@microsoft.com</itunes:email>
     <itunes:subtitle></itunes:subtitle>
