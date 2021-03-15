@@ -62,12 +62,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/877a/2662155a-c580-4180-82dc-bdbea7c5877a/helloworld20210312_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/877a/2662155a-c580-4180-82dc-bdbea7c5877a/helloworld20210312_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/f527258e-ec01-49bc-a361-ace70166ec34_20210212192418.mp4" expression="full" duration="1837" fileSize="1" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/877a/2662155a-c580-4180-82dc-bdbea7c5877a/helloworld20210312.mp3" expression="full" duration="1837" fileSize="29407788" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/877a/2662155a-c580-4180-82dc-bdbea7c5877a/helloworld20210312.mp4" expression="full" duration="1837" fileSize="84456168" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/877a/2662155a-c580-4180-82dc-bdbea7c5877a/helloworld20210312_high.mp4" expression="full" duration="1837" fileSize="853024440" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/877a/2662155a-c580-4180-82dc-bdbea7c5877a/helloworld20210312_mid.mp4" expression="full" duration="1837" fileSize="285550253" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/JxiB-117YE4?enablejsapi=1" expression="full" duration="1837" fileSize="1" type="" medium="video"></media:content>
+        <media:content url="https://sec.ch9.ms/ch9/877a/2662155a-c580-4180-82dc-bdbea7c5877a/helloworld20210312.mp3" expression="full" duration="1837" fileSize="29407788" type="audio/mp3" medium="audio"></media:content>  
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/877a/2662155a-c580-4180-82dc-bdbea7c5877a/helloworld20210312.mp3" length="29407788" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -92,12 +87,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/56f2/60ddb88a-5e42-415c-84ee-ea88c94856f2/helloworld20210311_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/56f2/60ddb88a-5e42-415c-84ee-ea88c94856f2/helloworld20210311_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/89f51a04-93f1-4899-b0dd-ace70163380c_20210211205552.mp4" expression="full" duration="1822" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/56f2/60ddb88a-5e42-415c-84ee-ea88c94856f2/helloworld20210311.mp3" expression="full" duration="1822" fileSize="29156580" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/56f2/60ddb88a-5e42-415c-84ee-ea88c94856f2/helloworld20210311.mp4" expression="full" duration="1822" fileSize="69807202" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/56f2/60ddb88a-5e42-415c-84ee-ea88c94856f2/helloworld20210311_high.mp4" expression="full" duration="1822" fileSize="676618740" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/56f2/60ddb88a-5e42-415c-84ee-ea88c94856f2/helloworld20210311_mid.mp4" expression="full" duration="1822" fileSize="216609947" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/wM17-DdFzas?enablejsapi=1" expression="full" duration="1822" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/56f2/60ddb88a-5e42-415c-84ee-ea88c94856f2/helloworld20210311.mp3" length="29156580" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -123,12 +113,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/500e/742fff4a-d635-445b-be3c-0fd71a66500e/HelloWorld20210310_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/500e/742fff4a-d635-445b-be3c-0fd71a66500e/HelloWorld20210310_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/3b04c7ea-b7fb-4def-b669-acdf015a9709_20210210200937.mp4" expression="full" duration="1822" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/500e/742fff4a-d635-445b-be3c-0fd71a66500e/HelloWorld20210310.mp3" expression="full" duration="1822" fileSize="29156577" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/500e/742fff4a-d635-445b-be3c-0fd71a66500e/HelloWorld20210310.mp4" expression="full" duration="1822" fileSize="65926483" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/500e/742fff4a-d635-445b-be3c-0fd71a66500e/HelloWorld20210310_high.mp4" expression="full" duration="1822" fileSize="602286031" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/500e/742fff4a-d635-445b-be3c-0fd71a66500e/HelloWorld20210310_mid.mp4" expression="full" duration="1822" fileSize="198469255" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/p2qQPFyYEu0?enablejsapi=1" expression="full" duration="1822" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/500e/742fff4a-d635-445b-be3c-0fd71a66500e/HelloWorld20210310.mp3" length="29156577" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -156,12 +141,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/b396/50240bc2-e713-4cb0-a6a0-15a785ddb396/20210308Suz-Laurent_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/b396/50240bc2-e713-4cb0-a6a0-15a785ddb396/20210308Suz-Laurent_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/28ad4936-6556-4250-a282-acdf0159499d_20210209192540.mp4" expression="full" duration="1676" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/9458/c1d04eae-e8fa-42d6-ba1c-592c7cb89458/HelloWorld20210309.mp3" expression="full" duration="1676" fileSize="26817254" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/9458/c1d04eae-e8fa-42d6-ba1c-592c7cb89458/HelloWorld20210309.mp4" expression="full" duration="1676" fileSize="69060461" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/9458/c1d04eae-e8fa-42d6-ba1c-592c7cb89458/HelloWorld20210309_high.mp4" expression="full" duration="1676" fileSize="762708980" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/9458/c1d04eae-e8fa-42d6-ba1c-592c7cb89458/HelloWorld20210309_mid.mp4" expression="full" duration="1676" fileSize="247933859" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/AjDmGZD30Vs?enablejsapi=1" expression="full" duration="1676" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/9458/c1d04eae-e8fa-42d6-ba1c-592c7cb89458/HelloWorld20210309.mp3" length="26817254" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -184,12 +164,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/166c/6adddba6-cf02-41da-b6b9-7396d35e166c/HelloWorld20210308_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/166c/6adddba6-cf02-41da-b6b9-7396d35e166c/HelloWorld20210308_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/e6ce5eb0-9050-436c-bf9c-acdf01576e94_20210208193516.mp4" expression="full" duration="1874" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/166c/6adddba6-cf02-41da-b6b9-7396d35e166c/HelloWorld20210308.mp3" expression="full" duration="1874" fileSize="29995424" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/166c/6adddba6-cf02-41da-b6b9-7396d35e166c/HelloWorld20210308.mp4" expression="full" duration="1874" fileSize="78014147" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/166c/6adddba6-cf02-41da-b6b9-7396d35e166c/HelloWorld20210308_high.mp4" expression="full" duration="1874" fileSize="835082298" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/166c/6adddba6-cf02-41da-b6b9-7396d35e166c/HelloWorld20210308_mid.mp4" expression="full" duration="1874" fileSize="273589167" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/jkKjN0fxuqs?enablejsapi=1" expression="full" duration="1874" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/166c/6adddba6-cf02-41da-b6b9-7396d35e166c/HelloWorld20210308.mp3" length="29995424" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -213,12 +188,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/06ef/637a73b6-2db7-4aff-9fd1-a7669b6006ef/HelloWorld20210305_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/06ef/637a73b6-2db7-4aff-9fd1-a7669b6006ef/HelloWorld20210305_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/c500403b-bfa7-44f1-a999-acdf0155bc33_20210205193410.mp4" expression="full" duration="1779" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/06ef/637a73b6-2db7-4aff-9fd1-a7669b6006ef/HelloWorld20210305.mp3" expression="full" duration="1779" fileSize="28471129" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/06ef/637a73b6-2db7-4aff-9fd1-a7669b6006ef/HelloWorld20210305.mp4" expression="full" duration="1779" fileSize="94284819" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/06ef/637a73b6-2db7-4aff-9fd1-a7669b6006ef/HelloWorld20210305_high.mp4" expression="full" duration="1779" fileSize="1046985209" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/06ef/637a73b6-2db7-4aff-9fd1-a7669b6006ef/HelloWorld20210305_mid.mp4" expression="full" duration="1779" fileSize="336323847" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/VENR6OEZGQ4?enablejsapi=1" expression="full" duration="1779" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/06ef/637a73b6-2db7-4aff-9fd1-a7669b6006ef/HelloWorld20210305.mp3" length="28471129" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -241,12 +211,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/68b3/775f80e3-3d5a-47b8-9e38-3e09876068b3/2021-03-04_Thumb_HD_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/68b3/775f80e3-3d5a-47b8-9e38-3e09876068b3/2021-03-04_Thumb_HD_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/1e3d365f-40a5-4b28-9504-acdf0152ad7e_20210204213220.mp4" expression="full" duration="1880" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/b7df/77ba1bfa-e367-4fb6-872d-7a64a73bb7df/HelloWorld20210304.mp3" expression="full" duration="1880" fileSize="30094910" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/b7df/77ba1bfa-e367-4fb6-872d-7a64a73bb7df/HelloWorld20210304.mp4" expression="full" duration="1880" fileSize="59918613" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/b7df/77ba1bfa-e367-4fb6-872d-7a64a73bb7df/HelloWorld20210304_high.mp4" expression="full" duration="1880" fileSize="639856893" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/b7df/77ba1bfa-e367-4fb6-872d-7a64a73bb7df/HelloWorld20210304_mid.mp4" expression="full" duration="1880" fileSize="191692835" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/edbYUbBuzlY?enablejsapi=1" expression="full" duration="1880" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/b7df/77ba1bfa-e367-4fb6-872d-7a64a73bb7df/HelloWorld20210304.mp3" length="30094910" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -269,12 +234,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/ea4f/e967ee02-4df1-411d-a7c2-5f85814fea4f/HelloWorld20210301_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/ea4f/e967ee02-4df1-411d-a7c2-5f85814fea4f/HelloWorld20210301_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/e7a2804b-8142-4460-95ca-acdb017a0adf_20210201214358.mp4" expression="full" duration="1853" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/79d3/f7863aea-6ea2-4af8-8089-9f1668ed79d3/HelloWorld20210301.mp3" expression="full" duration="1853" fileSize="29663975" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/79d3/f7863aea-6ea2-4af8-8089-9f1668ed79d3/HelloWorld20210301.mp4" expression="full" duration="1853" fileSize="79339604" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/79d3/f7863aea-6ea2-4af8-8089-9f1668ed79d3/HelloWorld20210301_high.mp4" expression="full" duration="1853" fileSize="860376515" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/79d3/f7863aea-6ea2-4af8-8089-9f1668ed79d3/HelloWorld20210301_mid.mp4" expression="full" duration="1853" fileSize="280464336" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/J3VSgaicfd8?enablejsapi=1" expression="full" duration="1853" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/79d3/f7863aea-6ea2-4af8-8089-9f1668ed79d3/HelloWorld20210301.mp3" length="29663975" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher, Anthony Bartolo, Jason Hand</dc:creator>
@@ -297,12 +257,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/0bc9/caa148eb-d49d-4b92-8fa9-bab60cee0bc9/HelloWorld20210226_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/0bc9/caa148eb-d49d-4b92-8fa9-bab60cee0bc9/HelloWorld20210226_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/3a4ff99c-f07b-40ec-b7fa-acda00ff02a1_20210126224327.mp4" expression="full" duration="1861" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/83d3/99df182b-6ff6-4caf-8062-4828456883d3/HelloWorld20210226.mp3" expression="full" duration="1861" fileSize="29779336" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/83d3/99df182b-6ff6-4caf-8062-4828456883d3/HelloWorld20210226.mp4" expression="full" duration="1861" fileSize="78127086" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/83d3/99df182b-6ff6-4caf-8062-4828456883d3/HelloWorld20210226_high.mp4" expression="full" duration="1861" fileSize="814665015" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/83d3/99df182b-6ff6-4caf-8062-4828456883d3/HelloWorld20210226_mid.mp4" expression="full" duration="1861" fileSize="249981836" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/pdUCxMuWPQQ?enablejsapi=1" expression="full" duration="1861" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/83d3/99df182b-6ff6-4caf-8062-4828456883d3/HelloWorld20210226.mp3" length="29779336" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -326,12 +281,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/f2c0/7436e835-f082-4f04-a315-d274b1faf2c0/HelloWorld_2021-02-24_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/f2c0/7436e835-f082-4f04-a315-d274b1faf2c0/HelloWorld_2021-02-24_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/bdcc37d0-22b6-49f9-a985-acd90156aa8e_20210126121851.mp4" expression="full" duration="1675" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/0d8c/87006299-2de6-45f0-a92a-b36713af0d8c/HelloWorld_2021-02-24.mp3" expression="full" duration="1675" fileSize="26809906" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/0d8c/87006299-2de6-45f0-a92a-b36713af0d8c/HelloWorld_2021-02-24.mp4" expression="full" duration="1675" fileSize="54785238" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/0d8c/87006299-2de6-45f0-a92a-b36713af0d8c/HelloWorld_2021-02-24_high.mp4" expression="full" duration="1675" fileSize="500332590" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/0d8c/87006299-2de6-45f0-a92a-b36713af0d8c/HelloWorld_2021-02-24_mid.mp4" expression="full" duration="1675" fileSize="168614397" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/-p3nzA9sx2M?enablejsapi=1" expression="full" duration="1675" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/0d8c/87006299-2de6-45f0-a92a-b36713af0d8c/HelloWorld_2021-02-24.mp3" length="26809906" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher</dc:creator>
@@ -354,12 +304,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/0c4b/8c88c538-b9fe-4123-967c-0ab5b65f0c4b/HelloWorld_2021-02-23_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/0c4b/8c88c538-b9fe-4123-967c-0ab5b65f0c4b/HelloWorld_2021-02-23_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/248a1a91-6964-4858-8189-acd901504bd1_20210124202944.mp4" expression="full" duration="1758" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/7379/1f74faa8-3509-4ce8-9fae-3bb60e067379/HelloWorld_2021-02-23.mp3" expression="full" duration="1758" fileSize="28136950" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/7379/1f74faa8-3509-4ce8-9fae-3bb60e067379/HelloWorld_2021-02-23.mp4" expression="full" duration="1758" fileSize="71608522" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/7379/1f74faa8-3509-4ce8-9fae-3bb60e067379/HelloWorld_2021-02-23_high.mp4" expression="full" duration="1758" fileSize="744614326" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/7379/1f74faa8-3509-4ce8-9fae-3bb60e067379/HelloWorld_2021-02-23_mid.mp4" expression="full" duration="1758" fileSize="235279873" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/95WI8xIZ4K8?enablejsapi=1" expression="full" duration="1758" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/7379/1f74faa8-3509-4ce8-9fae-3bb60e067379/HelloWorld_2021-02-23.mp3" length="28136950" type="audio/mp3"></enclosure>
       <dc:creator>Laurent Bugnion, Frank Boucher</dc:creator>
@@ -383,12 +328,7 @@
       <media:thumbnail url="https://sec.ch9.ms/ch9/b515/23ef961d-45e3-469a-ba97-a9923674b515/HelloWorld_2021-02-22_512.jpg" height="288" width="512"></media:thumbnail>
       <media:thumbnail url="https://sec.ch9.ms/ch9/b515/23ef961d-45e3-469a-ba97-a9923674b515/HelloWorld_2021-02-22_960.jpg" height="540" width="960"></media:thumbnail>
       <media:group>
-        <media:content url="https://rev9.blob.core.windows.net/mfupload/b8735fde-9368-440b-a7a9-acd9014c6b14_20210124201556.mp4" expression="full" duration="2127" fileSize="1" type="video/mp4" medium="video"></media:content>
         <media:content url="https://sec.ch9.ms/ch9/2fec/e96a858c-fe9f-44d3-ad55-c7e5bed02fec/HelloWorld_2021-02-22.mp3" expression="full" duration="2127" fileSize="34043131" type="audio/mp3" medium="audio"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/2fec/e96a858c-fe9f-44d3-ad55-c7e5bed02fec/HelloWorld_2021-02-22.mp4" expression="full" duration="2127" fileSize="68554196" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/2fec/e96a858c-fe9f-44d3-ad55-c7e5bed02fec/HelloWorld_2021-02-22_high.mp4" expression="full" duration="2127" fileSize="734276463" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://sec.ch9.ms/ch9/2fec/e96a858c-fe9f-44d3-ad55-c7e5bed02fec/HelloWorld_2021-02-22_mid.mp4" expression="full" duration="2127" fileSize="234421110" type="video/mp4" medium="video"></media:content>
-        <media:content url="https://www.youtube-nocookie.com/embed/9TL7FNGkCpw?enablejsapi=1" expression="full" duration="2127" fileSize="1" type="" medium="video"></media:content>
       </media:group>      
       <enclosure url="https://sec.ch9.ms/ch9/2fec/e96a858c-fe9f-44d3-ad55-c7e5bed02fec/HelloWorld_2021-02-22.mp3" length="34043131" type="audio/mp3"></enclosure>
       <dc:creator>Frank Boucher, Anthony Bartolo, Jason Hand</dc:creator>
