@@ -20,7 +20,7 @@
       <title>Hello World</title>
       <link>https://s.ch9.ms/Shows/Hello-World</link>
     </image>
-    <itunes:image href="https://f.ch9.ms/thumbnail/625c485e-abee-47a7-9326-dbd097455733.jpg"></itunes:image>
+    <itunes:image href="https://raw.githubusercontent.com/dendeli-work/feeds/main/hello-world/helloworld.png"></itunes:image>
     <itunes:category text="Technology"></itunes:category>
     <description>Hello World is a 30 minutes daily show on LearnTV. Hello World is made up of special guests, content challenges, upcoming events, and daily updates from Microsoft related news. Come for a specific segment, please stay for the energy. Hello World is meant to be fun and educational to the viewing audience who are interested in Microsoft products and Microsoft current events. Visualize this show like your national morning talk show. A regular cast of hosts, who then work on with others to build and deliver short and concise 2-5 minute segments of interest. Watch it live on LearnTV Add the Hello World show schedule to your calendar with this Invite - https://aka.ms/helloworld/reminder. </description>
     <link>https://s.ch9.ms/Shows/Hello-World</link>
